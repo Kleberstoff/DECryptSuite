@@ -12,6 +12,17 @@ Credits:<br>
 Kleberstoff<br>
 Matt (Main Developer from HackNet) the methods of this "encryption" and "decryption" came from him.<br><br>
 
+<h2>Possible asked Questions</h2>
+
+<strong>Can I modify the Source?</strong>
+Yes.
+
+<strong>Can I used it for XYZ?</strong>
+Yes.
+
+<strong>Should I use it for important files to be stored?</strong>
+Ye.. Wait, hell na brah.
+
 Feedback? Contact me via:
 <br><br>
 
