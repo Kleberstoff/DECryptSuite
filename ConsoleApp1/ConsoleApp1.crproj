@@ -1,0 +1,16 @@
+<project outputDir="C:\Users\justa\Documents\Github\ConsoleApp1\ConsoleApp1\bin\Debug\Confused" baseDir="C:\Users\justa\Documents\Github\ConsoleApp1\ConsoleApp1\bin\Debug" xmlns="http://confuser.codeplex.com">
+  <packer id="compressor" />
+  <module path="DECryptSuite.exe">
+    <rule pattern="true" preset="maximum">
+      <protection id="anti ildasm" />
+      <protection id="anti tamper" />
+      <protection id="constants" />
+      <protection id="anti dump" />
+      <protection id="rename" />
+      <protection id="resources" />
+      <protection id="ref proxy" />
+      <protection id="anti debug" />
+      <protection id="ctrl flow" />
+    </rule>
+  </module>
+</project>
