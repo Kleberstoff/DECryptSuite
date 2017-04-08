@@ -4,3 +4,9 @@ C:\Users\justa\Documents\Github\ConsoleApp1\ConsoleApp1\bin\Debug\DECryptSuite.p
 C:\Users\justa\Documents\Github\ConsoleApp1\ConsoleApp1\obj\Debug\DECryptSuite.csprojResolveAssemblyReference.cache
 C:\Users\justa\Documents\Github\ConsoleApp1\ConsoleApp1\obj\Debug\DECryptSuite.exe
 C:\Users\justa\Documents\Github\ConsoleApp1\ConsoleApp1\obj\Debug\DECryptSuite.pdb
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\bin\Debug\DECryptSuite.exe.config
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\bin\Debug\DECryptSuite.exe
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\bin\Debug\DECryptSuite.pdb
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\obj\Debug\DECryptSuite.csprojResolveAssemblyReference.cache
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\obj\Debug\DECryptSuite.exe
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\obj\Debug\DECryptSuite.pdb

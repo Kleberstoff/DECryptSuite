@@ -1,0 +1,6 @@
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\bin\Release\DECryptSuite.exe.config
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\bin\Release\DECryptSuite.exe
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\bin\Release\DECryptSuite.pdb
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\obj\Release\DECryptSuite.csprojResolveAssemblyReference.cache
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\obj\Release\DECryptSuite.exe
+C:\Users\justa\Documents\SourceTree\DECryptSuite\ConsoleApp1\obj\Release\DECryptSuite.pdb
