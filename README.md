@@ -2,26 +2,26 @@
 <p size="16">
 Disclaimer! <br><br>
 
-This "Encryption" and "Decryption" Tool is baised on the .DEC files from HackNet - It's not a save way too store important file. <br>
-It's has been made for Fun and should only be used for Fun and not legitimate encryption.<br>
-It will be keep in a Bash like function wise, meaning no GUI or anything. <br><br>
+This "Encryption" and "Decryption" Tool is based on .DEC files from Hacknet - It's not a safe way to store important files. <br>
+It's has been made for fun and should only be used for fun and not legitimate encryption.<br>
+It will be kept in a Bash like state, meaning no GUI or anything. <br><br>
 
-Disclamer End. <br><br>
+Disclaimer end. <br><br>
 
 Credits:<br>
 Kleberstoff<br>
-Matt (Main Developer from HackNet) the methods of this "encryption" and "decryption" came from him.<br><br>
+Matt (Main Hacknet developer); the methods of this "encryption" and "decryption" came from him.<br><br>
 
-<h2>Possible asked Questions</h2>
+<h2>Possible Questions</h2>
 
-<strong>Can I modify the Source?</strong>
+<strong>Can I modify the source?</strong>
 Yes.
 
-<strong>Can I used it for XYZ?</strong>
+<strong>Can I use it for XYZ?</strong>
 Yes.
 
 <strong>Should I use it for important files to be stored?</strong>
-Ye.. Wait, hell na brah.
+Ye.. Wait, hell no, brah.
 
 Feedback? Contact me via:
 <br><br>
@@ -30,4 +30,3 @@ Keybase: https://keybase.io/kleberstoff<br>
 Discord: Kleberstoff#5914<br>
 Email: admin@kleberstoff.xyz<br>
 </p>
-  
