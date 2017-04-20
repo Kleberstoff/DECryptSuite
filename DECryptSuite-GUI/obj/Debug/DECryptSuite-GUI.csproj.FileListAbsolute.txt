@@ -1,0 +1,10 @@
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\obj\Debug\DECryptSuite_GUI.Form1.resources
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\obj\Debug\DECryptSuite_GUI.Properties.Resources.resources
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\obj\Debug\DECryptSuite-GUI.csproj.GenerateResource.Cache
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\bin\Debug\DECryptSuite-GUI.exe.config
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\bin\Debug\DECryptSuite-GUI.exe
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\bin\Debug\DECryptSuite-GUI.pdb
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\bin\Debug\MaterialSkin.dll
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\obj\Debug\DECryptSuite-GUI.exe
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\obj\Debug\DECryptSuite-GUI.pdb
+C:\Users\justa\Documents\SourceTree\DECryptSuite-GUI\DECryptSuite-GUI\obj\Debug\DECryptSuite-GUI.csprojResolveAssemblyReference.cache
