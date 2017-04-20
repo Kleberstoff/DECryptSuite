@@ -10,6 +10,7 @@ Disclaimer end. <br><br>
 
 Credits:<br>
 Kleberstoff<br>
+A Casual Guy<br>
 Matt (Main Hacknet developer); the methods of this "encryption" and "decryption" came from him.<br><br>
 
 <h2>Possible Questions</h2>
